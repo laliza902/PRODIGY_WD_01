@@ -1,0 +1,130 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.bg{
+    background: url('media/bg.avif') no-repeat center center/cover;
+    width: 100vw;
+    height: 175vh;
+    position: relative;
+    top: -2px;
+}
+
+.grad{
+    width: 100vw;
+    height: 175vh;
+    position: relative;
+    top: -2px;
+    background-image: linear-gradient(to bottom, #640e7300, #000000);
+}
+.navbar{
+    display: flex;
+    align-items: center;
+    position: sticky;
+    top: 0px;
+    background-color: rgba(0, 0, 0, 0.203);
+    flex: 1;
+}
+
+#logo{
+    background: url('media/logo.png') no-repeat center center/cover;
+    width: 5vw;
+    height: 8vh;
+    padding: 7px 3px;
+    margin: 0 0px;
+}
+
+.navbar ul{
+    display: flex;
+}
+
+.navbar ul li{
+    list-style: none;
+    font-size: 45px;
+    /* z-index: 1; */
+}
+
+.navbar ul li a{
+    color: whitesmoke;
+    /* display: block; */
+    text-decoration: none;
+    padding: 0 30px;
+}
+
+.home{
+    width: 99vw;
+    height: 80vh;
+    /* background-color: black; */
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.home p#heading{
+    color: whitesmoke;
+    font-size: 100px;
+} 
+
+.home p#para{
+    color: whitesmoke;
+    font-size: 70px;
+    position: relative;
+    top: 5vh;
+}
+
+.headphone{
+    width: 90vw;
+    /* background-color: black; */
+    display:flex;
+    justify-content: center; 
+    align-items: center;
+    position: relative;
+    top: 11vh;
+}
+
+#head{
+    background: url('media/headphones.avif') no-repeat center center/cover;
+    width: 80vw;
+    height: 70vh;
+    padding: 6px 3px;
+    margin: 0px 59px;
+    border-radius: 73px;
+}
+
+#head2 p{
+    color: whitesmoke;
+    font-size: 50px;
+}
+
+.switch{
+    /* background-color: black; */
+    background: url('media/switchbg.avif')no-repeat center center/cover;
+    position: relative;
+    /*right: -9vw; */
+    top: 15vh; 
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 99vw;
+}
+
+#switch2 p{
+    color: black;
+    font-size:50px;
+    width: 54vw;
+    position: relative;
+    right: -2vw;
+}
+
+#switch1{
+    background: url('media/switch.avif')no-repeat center center/cover;
+    width: 42vw;
+    height: 70vh;
+    padding: 6px 3px;
+    margin: 126px 59px;
+    border-radius: 73px;
+}
