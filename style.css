@@ -362,7 +362,8 @@
 
     #logo{
         padding: 0px 41px;
-        margin: 12px 0px
+        margin: 12px 0px;
+        width: 10vw;
     }
 
     #switch{
@@ -413,7 +414,7 @@
     }
 
     .home #para{
-        font-size: 27px;
+        font-size: 22px;
     }
 
     .accessories h1{
@@ -481,6 +482,11 @@
         height: 6vh;
     }
 
+    
+    #logo{
+        width: 10vw;
+    }
+    
     #items a {
         margin: 0 -15px;
         font-size: 13px;
@@ -499,7 +505,7 @@
     }
 
     .home #para{
-        font-size: 27px;
+        font-size: 22px;
     }
 
     .accessories h1{
