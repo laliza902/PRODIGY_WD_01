@@ -424,15 +424,15 @@ html{
         font-size: 16px;
     }
 
-    .home #heading{
+    #home #heading{
         font-size: 38px;
     }
 
-    .home #para{
+    #home #para{
         font-size: 15px;
     }
 
-    .accessories h1{
+    #accessories h1{
         font-size: 35px;
     }
 
@@ -524,15 +524,15 @@ html{
         font-size: 16px;
     }
 
-    .home #heading{
+    #home #heading{
         font-size: 38px;
     }
 
-    .home #para{
+    #home #para{
         font-size: 15px;
     }
 
-    .accessories h1{
+    #accessories h1{
         font-size: 35px;
     }
 
