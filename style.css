@@ -364,6 +364,8 @@
         padding: 0px 41px;
         margin: 12px 0px;
         width: 10vw;
+        position: relative;
+        top: 11vh;
     }
 
     #switch{
@@ -487,6 +489,8 @@
         padding: 0px 41px;
         margin: 12px 0px;
         width: 10vw;
+        position: relative;
+        top: 11vh;
     }
 
     #items a {
