@@ -41,12 +41,19 @@
     align-items: center;
 }
 
+.navbar img{
+    width: 4vw;
+    margin: 0 8px;
+    padding: 7px 30px;
+}
+
+/* 
 #logo img {
     width: 8vw;
     height: 5vh;
     padding: 5px 14px;
     margin: 0px 0px;
-}
+} */
 
 .navbar ul{
     display: flex;
@@ -354,14 +361,14 @@
         font-size: 13px;
     }
 
-    #logo{
+    /* #logo{
         width: 10vw;
         display: flex;
         justify-content: center;
         align-items: center;
-    }
+    } */
 
-    #logo img
+    .navbar img
     {
         width: 9vw;
         height: 5vh;
@@ -486,14 +493,14 @@
         height: 6vh;
     }
 
-    #logo{
+    /* #logo{
         width: 6vw;
         display: flex;
         justify-content: center;
         align-items: center;
-    }
+    } */
 
-    #logo img {
+    .navbar img {
         width: 9vw;
         height: 5vh;
         padding: 5px 14px;
