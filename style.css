@@ -395,13 +395,37 @@
         margin: 27px 0;
     }
 }
+
 @media only screen and (max-width: 790px)
 {
     .headphone{
         display: flex;
         flex-direction: column-reverse;
         height: 6vh;
-        
+    }
+
+    #items{
+        margin: 0 -18px;
+    }
+
+    #head h1{
+        font-size: 30px;
+    }
+
+    #head p{
+        font-size: 22px;
+    }
+
+    .home #heading{
+        font-size: 42px;
+    }
+
+    .home #para{
+        font-size: 30px;
+    }
+
+    .accessories h1{
+        font-size: 35px;
     }
 
     .switch{
@@ -414,11 +438,27 @@
         position: relative;
         right: 0px;
     }
+    
+    #switch h1{
+        font-size: 30px;
+    }
+    
+    #switch p{
+        font-size: 22px;
+    }
 
     .keyboard{
         display: flex;
         flex-direction: column-reverse;
         height: 22vh;
+    }
+
+    #keyboard h1{
+        font-size: 30px;
+    }
+
+    #keyboard p{
+        font-size: 22px;
     }
 
     .cpu{
@@ -430,6 +470,14 @@
     #cpu{
         position: relative;
         right: 0;
+    }
+
+    #cpu h1{
+        font-size: 30px;
+    }
+
+    #cpu p{
+        font-size: 22px
     }
 }
 
