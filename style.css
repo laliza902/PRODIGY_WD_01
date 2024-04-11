@@ -353,8 +353,6 @@
     .navbar{
         display: flex;
         flex-direction: column;
-        position: relative;
-        top: 11vh
     }
 
     #items a {
@@ -365,7 +363,7 @@
     #logo{
         padding: 0px 41px;
         margin: 12px 0px;
-        width: 10vw;
+        width: 1vw;
     }
 
     #switch{
@@ -484,17 +482,10 @@
         height: 6vh;
     }
 
-    .navbar{
-        position: relative;
-        top: 11vh
-    }
-    
     #logo{
         padding: 0px 41px;
         margin: 12px 0px;
-        width: 10vw;
-        position: relative;
-        top: 11vh;
+        width: 1vw;
     }
 
     #items a {
