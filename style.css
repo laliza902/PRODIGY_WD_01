@@ -34,8 +34,11 @@
     z-index: 1;
 }
 
-#logo {
-    width: 4vw;
+#logo{
+    width: 10vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 #logo img {
