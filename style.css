@@ -408,7 +408,7 @@
         height: 6vh;
     }
 
-    #items{
+    #items a {
         margin: 0 -30px;
         font-size: 13px;
     }
