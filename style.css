@@ -34,6 +34,10 @@
     z-index: 1;
 }
 
+#logo {
+    width: 4vw;
+}
+
 #logo img {
     width: 4vw;
     height: 5vh;
@@ -359,6 +363,10 @@
         font-size: 13px;
     }
 
+    #logo{
+        width: 6vw;
+    }
+
     #logo img
     {
         width: 6vw;
@@ -484,6 +492,10 @@
         height: 6vh;
     }
 
+    #logo{
+        width: 6vw;
+    }
+    
     #logo img {
         width: 6vw;
         height: 4vh;
