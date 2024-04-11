@@ -391,7 +391,7 @@ html{
         right: -4vw;
     }
 
-    #services{
+    .services{
         display: flex;
         flex-direction: column;
         justify-content: center;
