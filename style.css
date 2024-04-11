@@ -356,7 +356,7 @@
     }
 
     #items a {
-        margin: 0 -30px;
+        margin: 0 -10px;
         font-size: 13px;
     }
 
@@ -398,6 +398,78 @@
         width: 30vw;
         text-align: center;
         margin: 27px 0;
+    }
+
+    #head h1{
+        font-size: 25px;
+    }
+
+    #head p{
+        font-size: 16px;
+    }
+
+    .home #heading{
+        font-size: 38px;
+    }
+
+    .home #para{
+        font-size: 27px;
+    }
+
+    .accessories h1{
+        font-size: 35px;
+    }
+
+    .switch{
+        display: flex;
+        flex-direction: column-reverse;
+        height: 70vh;
+    }
+
+    #switch{
+        position: relative;
+        right: 0px;
+    }
+    
+    #switch h1{
+        font-size: 25px;
+    }
+    
+    #switch p{
+        font-size: 16px;
+    }
+
+    .keyboard{
+        display: flex;
+        flex-direction: column-reverse;
+        height: 22vh;
+    }
+
+    #keyboard h1{
+        font-size: 25px;
+    }
+
+    #keyboard p{
+        font-size: 16px;
+    }
+
+    .cpu{
+        display: flex;
+        flex-direction: column-reverse;
+        height: 61vh;
+    }
+
+    #cpu{
+        position: relative;
+        right: 0;
+    }
+
+    #cpu h1{
+        font-size: 25px;
+    }
+
+    #cpu p{
+        font-size: 16px
     }
 }
 
