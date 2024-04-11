@@ -342,7 +342,7 @@ html{
     .bg{
         height: 311vh;
     }
-
+    
     .navbar{
         display: flex;
         flex-direction: column;
@@ -411,7 +411,7 @@ html{
     }
 
     #home #heading{
-        font-size: 25px;
+        font-size: 38px;
     }
 
     #home #para{
@@ -420,6 +420,10 @@ html{
 
     #accessories h1{
         font-size: 35px;
+    }
+
+    #head h1{
+        font-size: 25px;
     }
 
     .switch{
