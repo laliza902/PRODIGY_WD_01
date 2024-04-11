@@ -9,3 +9,4 @@ nav_items.forEach(item =>{
         item.style.color = 'whitesmoke';
     });
 });
+
