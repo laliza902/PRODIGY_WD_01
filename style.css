@@ -547,7 +547,7 @@
     }
 }
 
-@media only screen and (max-width: 540px)
+@media only screen and (max-width: 560px)
 {
     #items{
         margin: 0 -18px;
