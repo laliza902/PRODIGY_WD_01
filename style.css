@@ -484,9 +484,11 @@
 
     
     #logo{
+        padding: 0px 41px;
+        margin: 12px 0px;
         width: 10vw;
     }
-    
+
     #items a {
         margin: 0 -15px;
         font-size: 13px;
