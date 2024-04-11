@@ -34,12 +34,11 @@
     z-index: 1;
 }
 
-#logo{
-    background: url('media/logo.png') no-repeat center center/cover;
+#logo img {
     width: 4vw;
-    height: 6vh;
-    padding: 7px 30px;
-    margin: 0px 8px;
+    height: 5vh;
+    padding: 5px 14px;
+    margin: 0px 0px;
 }
 
 .navbar ul{
@@ -360,11 +359,14 @@
         font-size: 13px;
     }
 
-    #logo{
-        padding: 0px 41px;
-        margin: 12px 0px;
+    #logo img
+    {
         width: 1vw;
+        height: 2vh;
+        padding: 5px 14px;
+        margin: 0px 0px;
     }
+
 
     #switch{
         position: relative;
@@ -482,10 +484,11 @@
         height: 6vh;
     }
 
-    #logo{
-        padding: 0px 41px;
-        margin: 12px 0px;
+    #logo img {
         width: 1vw;
+        height: 2vh;
+        padding: 5px 14px;
+        margin: 0px 0px;
     }
 
     #items a {
