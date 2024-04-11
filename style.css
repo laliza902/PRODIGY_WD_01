@@ -369,9 +369,6 @@
         margin: 0px 0px;
     }
 
-    .accessories{
-        height: 30vh;
-    }
 
     #switch{
         position: relative;
@@ -508,10 +505,6 @@
         font-size: 13px;
     }
 
-    .accessories{
-        height: 30vh;
-    }
-    
     #head h1{
         font-size: 25px;
     }
