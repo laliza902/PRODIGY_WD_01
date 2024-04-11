@@ -356,7 +356,7 @@
     }
 
     #items a {
-        margin: 0 -10px;
+        margin: 0 -21px;
         font-size: 13px;
     }
 
@@ -482,7 +482,7 @@
     }
 
     #items a {
-        margin: 0 -10px;
+        margin: 0 -21px;
         font-size: 13px;
     }
 
@@ -624,6 +624,6 @@
 @media only screen and (max-width: 560px)
 {
     #items{
-        margin: 0 -10px;
+        margin: 0 -21px;
     }
 }
