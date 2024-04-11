@@ -365,13 +365,6 @@ html{
         font-size: 13px;
     }
 
-    /* #logo{
-        width: 10vw;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-    } */
-
     .navbar img
     {
         width: 9vw;
@@ -391,7 +384,7 @@ html{
         right: -4vw;
     }
 
-    .services{
+    #services{
         display: flex;
         flex-direction: column;
         justify-content: center;
@@ -496,13 +489,6 @@ html{
         flex-direction: column-reverse;
         height: 6vh;
     }
-
-    /* #logo{
-        width: 6vw;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-    } */
 
     .navbar img {
         width: 9vw;
