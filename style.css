@@ -355,6 +355,10 @@
         flex-direction: column;
     }
 
+    #items{
+        margin: 0 -30px;
+    }
+
     #logo{
         padding: 0px 41px;
         margin: 12px 0px
