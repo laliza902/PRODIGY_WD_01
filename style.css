@@ -405,15 +405,15 @@
     }
 
     #items{
-        margin: 0 -18px;
+        margin: 0 -30px;
     }
 
     #head h1{
-        font-size: 30px;
+        font-size: 25px;
     }
 
     #head p{
-        font-size: 22px;
+        font-size: 16px;
     }
 
     .home #heading{
@@ -440,11 +440,11 @@
     }
     
     #switch h1{
-        font-size: 30px;
+        font-size: 25px;
     }
     
     #switch p{
-        font-size: 22px;
+        font-size: 16px;
     }
 
     .keyboard{
@@ -454,11 +454,11 @@
     }
 
     #keyboard h1{
-        font-size: 30px;
+        font-size: 25px;
     }
 
     #keyboard p{
-        font-size: 22px;
+        font-size: 16px;
     }
 
     .cpu{
@@ -473,11 +473,11 @@
     }
 
     #cpu h1{
-        font-size: 30px;
+        font-size: 25px;
     }
 
     #cpu p{
-        font-size: 22px
+        font-size: 16px
     }
 }
 
