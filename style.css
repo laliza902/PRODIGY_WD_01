@@ -16,7 +16,6 @@
 .home{
     width: 100vw;
     height: 80vh;
-    /* background-color: black; */
     text-align: center;
     display: flex;
     flex-direction: column;
@@ -55,12 +54,10 @@
 .navbar ul li{
     list-style: none;
     font-size: 28px;
-    /* z-index: 1; */
 }
 
 .navbar ul li a{
     color: whitesmoke;
-    /* display: block; */
     text-decoration: none;
     padding: 0 30px;
 }
@@ -70,8 +67,6 @@
     border-radius: 73px;
     padding: 6px 3px;
     margin: 0 59px;
-    /* position: relative;
-    left: -23vw; */
 }
 
 .home #heading{
@@ -155,22 +150,18 @@
     border-radius: 73px;
     padding: 6px 3px;
     margin: 0 59px;
-    /* position: relative;
-    right: -6vw; */
 }
+
 .switch p{
     color: black;
     font-size:40px;
-    /* font-weight: bold; */
     width: 54vw;
     position: relative;
     right: -2vw;
 }
 
 .keyboard{
-    /* background: url('media/keyboardbg.avif'); */
     position: relative;
-    /*right: -9vw; */
     top: 11vh; 
     text-align: center;
     display: flex;
@@ -231,7 +222,6 @@
 #cpu p{
     color: black;
     font-size:40px;
-    /* font-weight: bold; */
     width: 54vw;
     position: relative;
     right: -2vw;
@@ -244,7 +234,6 @@
 
 #services{
     display: flex;
-    /* height: 20vh; */
 }
 
 .services h1{
@@ -298,7 +287,6 @@
 }
 
 .support h1{
-    /* text-align: center; */
     font-size: 45px;
     color: whitesmoke;
 }
@@ -310,7 +298,6 @@
     font-size: 15px;
     padding: 1px;
     color: whitesmoke;
-    /* border: 2px solid black; */
     margin: 11px auto;
 }
 
@@ -590,71 +577,3 @@
     }
 }
 
-/* @media only screen and ( max-width: 630px){
-
-    .bg{
-        height: 321vh;
-    }
-
-    .headphone{
-        display: flex;
-        flex-direction: column-reverse;
-        height: 6vh;
-        
-    }
-
-    .switch{
-        display: flex;
-        flex-direction: column-reverse;
-        height: 70vh;
-    }
-
-    #switch{
-        position: relative;
-        right: 0px;
-    }
-
-    .keyboard{
-        display: flex;
-        flex-direction: column-reverse;
-        height: 22vh;
-    }
-
-    .cpu{
-        display: flex;
-        flex-direction: column-reverse;
-        height: 61vh;
-    }
-
-    #cpu{
-        position: relative;
-        right: 0;
-    }
-
-    .accessories{
-        height: 170vh;
-    }
-
-    .headphone img{
-        width: 50vw;
-    }
-
-    .keyboard img{
-        width: 50vw;
-    }
-
-    .switch img{
-        width: 50vw;
-    }
-
-    .cpu img{
-        width: 50vw;
-    }
-} */
-
-/* @media only screen and (max-width: 560px)
-{
-    #items{
-        margin: 0 0px;
-    }
-} */
