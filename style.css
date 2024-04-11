@@ -37,27 +37,11 @@ html{
     z-index: 1;
 }
 
-/* #logo{
-    width: 10vw;
-    height: 10vh;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-} */
-
 .navbar img{
     width: 4vw;
     margin: 0 8px;
     padding: 7px 30px;
 }
-
-/* 
-#logo img {
-    width: 8vw;
-    height: 5vh;
-    padding: 5px 14px;
-    margin: 0px 0px;
-} */
 
 .navbar ul{
     display: flex;
@@ -354,7 +338,11 @@ html{
 }
 
 @media only screen and (max-width: 880px)
-{
+{   
+    .bg{
+        height: 311vh;
+    }
+    
     .navbar{
         display: flex;
         flex-direction: column;
@@ -373,6 +361,19 @@ html{
         margin: 0px 0px;
     }
 
+    .headphone{
+        display: flex;
+        flex-direction: column-reverse;
+        height: 6vh;
+    }
+
+    #head h1{
+        font-size: 25px;
+    }
+
+    #head p{
+        font-size: 16px;
+    }
 
     #switch{
         position: relative;
@@ -384,7 +385,7 @@ html{
         right: -4vw;
     }
 
-    #services{
+    .services{
         display: flex;
         flex-direction: column;
         justify-content: center;
@@ -407,14 +408,6 @@ html{
         width: 30vw;
         text-align: center;
         margin: 27px 0;
-    }
-
-    #head h1{
-        font-size: 25px;
-    }
-
-    #head p{
-        font-size: 16px;
     }
 
     #home #heading{
@@ -482,7 +475,7 @@ html{
     }
 }
 
-@media only screen and (max-width: 790px)
+/* @media only screen and (max-width: 790px)
 {
     .headphone{
         display: flex;
@@ -573,5 +566,6 @@ html{
     #cpu p{
         font-size: 16px
     }
-}
+
+} */
 
