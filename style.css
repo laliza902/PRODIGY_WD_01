@@ -75,7 +75,7 @@ html{
     font-size: 50px;
     position: relative;
     top: 5vh;
-    text-wrap:wrap;
+    text-wrap:wrap; 
 }
 
 #accessories{
@@ -479,97 +479,4 @@ html{
     }
 }
 
-/* @media only screen and (max-width: 790px)
-{
-    .headphone{
-        display: flex;
-        flex-direction: column-reverse;
-        height: 6vh;
-    }
-
-    .navbar img {
-        width: 9vw;
-        height: 5vh;
-        padding: 5px 14px;
-        margin: 0px 0px;
-    }
-
-    #items a {
-        margin: 0 -15px;
-        font-size: 13px;
-    }
-
-    #head h1{
-        font-size: 25px;
-    }
-
-    #head p{
-        font-size: 16px;
-    }
-
-    #home #heading{
-        font-size: 38px;
-    }
-
-    #home #para{
-        font-size: 15px;
-    }
-
-    #accessories h1{
-        font-size: 35px;
-    }
-
-    .switch{
-        display: flex;
-        flex-direction: column-reverse;
-        height: 70vh;
-    }
-
-    #switch{
-        position: relative;
-        right: 0px;
-    }
-    
-    #switch h1{
-        font-size: 25px;
-    }
-    
-    #switch p{
-        font-size: 16px;
-    }
-
-    .keyboard{
-        display: flex;
-        flex-direction: column-reverse;
-        height: 22vh;
-    }
-
-    #keyboard h1{
-        font-size: 25px;
-    }
-
-    #keyboard p{
-        font-size: 16px;
-    }
-
-    .cpu{
-        display: flex;
-        flex-direction: column-reverse;
-        height: 61vh;
-    }
-
-    #cpu{
-        position: relative;
-        right: 0;
-    }
-
-    #cpu h1{
-        font-size: 25px;
-    }
-
-    #cpu p{
-        font-size: 16px
-    }
-
-} */
 
